@@ -8,6 +8,6 @@ Make sure you have [.NET Core SDK](https://dotnet.microsoft.com/download) instal
 
 ```
 git clone https://github.com/sychoi3/9dt.git
-cd 9dt
+cd 9dt/9dt.Web
 dotnet run
 ```
