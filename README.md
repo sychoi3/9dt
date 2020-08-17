@@ -4,7 +4,7 @@ Backendend (REST web-service) that allows playing the game of 9dt (drop token). 
 moves and get state of games.
 
 ## Try it out
-Make sure you have the [.NET Core SDK](https://dotnet.microsoft.com/download) installed on your machine. Then do:
+Make sure you have [.NET Core SDK](https://dotnet.microsoft.com/download) installed on your machine. Then do:
 
 ```
 git clone https://github.com/sychoi3/9dt.git
